@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: OFP_MCM_v1.5.PcbDoc   3/10/2025  12:02:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : OFP_MCM_v1.5-RoundHoles.TXT
+ASCII SlotHoles File : OFP_MCM_v1.5-SlotHoles.TXT
+ASCII RectHoles File : OFP_MCM_v1.5-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             519       PTH        1845.15mm (72.64inch)
+T2      0.5mm (20mil)                                             Round             5         PTH        6.39mm (0.25inch)
+T3      0.5mm (20mil)                                             Slot              2         PTH        17.02mm (0.67inch)
+T4      0.6mm (24mil)                                             Rectangle         2         PTH        11.66mm (0.46inch)
+T5      0.9mm (35mil)                                             Round             8         PTH        40.62mm (1.60inch)
+T6      1mm (39mil)                                               Round             8         PTH        20.00mm (0.79inch)
+T7      3mm (118mil)                                              Round             8         PTH        433.62mm (17.07inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              552
+
+Total Processing Time (hh:mm:ss) : 00:00:00

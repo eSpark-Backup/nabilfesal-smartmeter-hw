@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: OFP_VIM_v1.5.PcbDoc   3/10/2025  11:54:06 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : OFP_VIM_v1.5.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             33        PTH        268.84mm (10.58inch)
+T2      0.9mm (35mil)                                             Round             9         PTH        62.50mm (2.46inch)
+T3      0.92mm (36mil)                                            Round             2         PTH        10.00mm (0.39inch)
+T4      1mm (39mil)                                               Round             32        PTH        327.07mm (12.88inch)
+T5      1.02mm (40mil)                                            Round             24        PTH        78.74mm (3.10inch)
+T6      1.2mm (47mil)                                             Round             8         PTH        75.24mm (2.96inch)
+T7      1.2mm (47mil)                                             Round             4         PTH        11.43mm (0.45inch)
+T8      3.5mm (138mil)                                            Round             2         PTH        100.00mm (3.94inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              114
+
+Total Processing Time (hh:mm:ss) : 00:00:00

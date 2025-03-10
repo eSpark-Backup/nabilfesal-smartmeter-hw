@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+E:\aSim Data\GitHub\nabilfesal-smartmeter-hw\Design-Files\OFP_USM_v1.5\Project Outputs for OFP_USM_v1.5\Pick Place for OFP_USM_v1.5.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/03/25
+Time:       11:12
+Revision:   5b703a46c74e74780d387c23f46dbae0dc557009
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"C1","36.5506mm","17.8304mm","BottomLayer","270","36.5506mm","17.8304mm","36.5506mm","18.5924mm"
+"C2","37.9513mm","17.8304mm","BottomLayer","90","37.9513mm","17.8304mm","37.9513mm","17.0684mm"
+"C3","30.0254mm","17.7796mm","BottomLayer","90","30.0254mm","17.7796mm","30.0254mm","17.0176mm"
+"C4","25.7111mm","17.8304mm","BottomLayer","270","25.7111mm","17.8304mm","25.7111mm","18.5924mm"
+"D1","33.0473mm","17.8274mm","BottomLayer","90","33.0473mm","17.8274mm","33.5473mm","17.1894mm"
+"D2","10.6567mm","15.9474mm","BottomLayer","270","10.6567mm","15.9474mm","10.6567mm","16.2724mm"
+"D3","12.3091mm","15.9474mm","BottomLayer","270","12.3091mm","15.9474mm","12.3091mm","16.2724mm"
+"D4","9.3669mm","15.9474mm","BottomLayer","90","9.3669mm","15.9474mm","9.3669mm","15.6224mm"
+"F1","6.9342mm","17.0986mm","BottomLayer","90","6.9342mm","17.0986mm","6.9342mm","15.9986mm"
+"J1","31.4829mm","7.9190mm","TopLayer","180","31.4829mm","7.4488mm","34.7628mm","14.7713mm"
+"J2","12.9829mm","17.3075mm","TopLayer","180","12.9829mm","17.3075mm","10.7329mm","16.0075mm"
+"J3","12.9829mm","10.2139mm","TopLayer","0","12.9829mm","10.2139mm","9.4829mm","12.4139mm"
+"LED1","24.5330mm","18.4583mm","TopLayer","90","24.5330mm","18.4583mm","24.5330mm","17.7083mm"
+"R1","35.1536mm","17.8050mm","BottomLayer","270","35.1536mm","17.8050mm","35.1536mm","18.5670mm"
+"R2","24.2591mm","17.8050mm","BottomLayer","270","24.2591mm","17.8050mm","24.2591mm","18.5670mm"
+"R3","28.5734mm","17.8050mm","BottomLayer","90","28.5734mm","17.8050mm","28.5734mm","17.0430mm"
+"R4","39.3954mm","17.8304mm","BottomLayer","90","39.3954mm","17.8304mm","39.3954mm","17.0684mm"
+"R5","26.1911mm","18.5599mm","TopLayer","270","26.1911mm","18.5599mm","26.1911mm","19.3219mm"
