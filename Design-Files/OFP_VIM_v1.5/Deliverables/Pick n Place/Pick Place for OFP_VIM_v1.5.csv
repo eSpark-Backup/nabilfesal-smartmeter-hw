@@ -4,9 +4,9 @@ E:\aSim Data\GitHub\nabilfesal-smartmeter-hw\Design-Files\OFP_VIM_v1.5\Project O
 ========================================================================================================================
 File Design Information:
 
-Date:       10/03/25
-Time:       11:51
-Revision:   c93b6b6c3bdcfff54013e1dbe826a94494f557c0
+Date:       19/03/25
+Time:       01:09
+Revision:   fe128bad9114d9b07088dd368dfd6ca50b5b8c85
 Variant:    No variations
 Units used: mm
 
@@ -50,7 +50,7 @@ Units used: mm
 "FB4","43.6118mm","15.0462mm","BottomLayer","90","43.6118mm","15.0462mm","43.6118mm","14.0462mm"
 "J1","23.5815mm","56.3820mm","TopLayer","90","23.5815mm","56.3820mm","23.5815mm","52.5820mm"
 "J2","55.0000mm","62.0000mm","TopLayer","180","55.0000mm","62.0000mm","68.9700mm","63.2700mm"
-"J3","55.0000mm","1.9384mm","TopLayer","0","55.0000mm","1.9384mm","49.2850mm","1.9384mm"
+"J3","55.0000mm","3.0884mm","TopLayer","0","55.0000mm","3.0884mm","49.2850mm","3.0884mm"
 "L1","100.6601mm","12.9504mm","TopLayer","90","100.6601mm","12.9504mm","100.6601mm","10.4503mm"
 "L2","90.2207mm","46.1809mm","TopLayer","90","90.2207mm","46.1809mm","90.2207mm","43.6808mm"
 "L3","90.5001mm","12.9105mm","TopLayer","90","90.5001mm","12.9105mm","90.5001mm","10.4103mm"
