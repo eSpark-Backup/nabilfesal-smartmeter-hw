@@ -27,13 +27,71 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : OFP_CIM_v1.5.GKO
+Generating : Bottom Layer
+      File : OFP_CIM_v1.5.GBL
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D11
+    D44
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : OFP_CIM_v1.5.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : OFP_CIM_v1.5.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : OFP_CIM_v1.5.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -45,6 +103,16 @@ Generating : Bottom Paste
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : OFP_CIM_v1.5.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -69,79 +137,6 @@ Used DCodes :
     D19
     D20
     D21
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : OFP_CIM_v1.5.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D35
-    D36
-    D46
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : OFP_CIM_v1.5.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : OFP_CIM_v1.5.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : OFP_CIM_v1.5.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
 *************************************************************
 
 *************************************************************
@@ -170,56 +165,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : OFP_CIM_v1.5.GPB
+Generating : Keep-Out Layer
+      File : OFP_CIM_v1.5.GKO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D47
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : OFP_CIM_v1.5.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D44
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : OFP_CIM_v1.5.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D44
-    D47
-    D48
-    D49
-    D50
-    D51
 *************************************************************
 
 *************************************************************
@@ -273,6 +225,54 @@ Used DCodes :
     D49
     D50
     D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : OFP_CIM_v1.5.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+    D46
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : OFP_CIM_v1.5.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
 *************************************************************
 
 *************************************************************

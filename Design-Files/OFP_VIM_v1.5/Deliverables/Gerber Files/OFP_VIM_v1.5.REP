@@ -2,85 +2,73 @@
 FileName = OFP_VIM_v1.5.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : OFP_VIM_v1.5.GTL
+Generating : Fabrication
+      File : OFP_VIM_v1.5.GM3
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Fabrication
 
 
 Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : OFP_VIM_v1.5.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
     D11
     D12
-    D13
-    D14
-    D15
-    D16
+    D111
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : OFP_VIM_v1.5.GBO
+Generating : Board Outline
+      File : OFP_VIM_v1.5.GM2
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
     D10
-    D12
-    D13
-    D14
-    D108
-    D109
+    D110
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : OFP_VIM_v1.5.GPT
+Generating : Keep-Out Layer
+      File : OFP_VIM_v1.5.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : OFP_VIM_v1.5.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D21
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : OFP_VIM_v1.5.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -96,20 +84,6 @@ Used DCodes :
     D22
     D23
     D24
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
 *************************************************************
 
 *************************************************************
@@ -159,28 +133,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : OFP_VIM_v1.5.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : OFP_VIM_v1.5.GTS
 
@@ -217,6 +169,73 @@ Used DCodes :
     D47
     D48
     D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : OFP_VIM_v1.5.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : OFP_VIM_v1.5.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : OFP_VIM_v1.5.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
 *************************************************************
 
 *************************************************************
@@ -257,6 +276,50 @@ Used DCodes :
     D84
     D85
     D86
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : OFP_VIM_v1.5.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
 *************************************************************
 
 *************************************************************
@@ -316,69 +379,6 @@ Used DCodes :
     D93
     D94
     D95
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : OFP_VIM_v1.5.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D21
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : OFP_VIM_v1.5.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : OFP_VIM_v1.5.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-    D110
-*************************************************************
-
-*************************************************************
-Generating : Fabrication
-      File : OFP_VIM_v1.5.GM3
-
-    Adding Layer      : Fabrication
-
-
-Used DCodes :
-    D11
-    D12
-    D111
 *************************************************************
 
 *************************************************************
