@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: OFP_VIM_v1.5.GBR   3/19/2025  1:11:21 AM
+Gerber File Extension Report For: OFP_VIM_v1.5.GBR   27/03/2025  1:51:02 pm
 ------------------------------------------------------------------------------------------
 
 
@@ -14,7 +14,6 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Dimension                               
 .GM2                Board Outline                           
 .GM3                Fabrication                             
 .GKO                Keep-Out Layer                          
