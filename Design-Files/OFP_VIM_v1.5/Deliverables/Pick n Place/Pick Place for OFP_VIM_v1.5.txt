@@ -4,9 +4,9 @@ C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\nabilfesal-smartme
 ========================================================================================================================
 File Design Information:
 
-Date:       27/03/25
-Time:       13:48
-Revision:   5c1a2b022160694489fe67060ed2e42c2b343a43
+Date:       03/04/25
+Time:       14:34
+Revision:   1e1756e80ec4922601d62fde0151869b21e842d8
 Variant:    No variations
 Units used: mm
 
@@ -23,7 +23,7 @@ C7         10.7381mm    24.9263mm    BottomLayer 270      10.7381mm  24.9263mm 1
 C8         95.5674mm    37.7041mm    TopLayer    180      95.5674mm  37.7041mm 103.0674mm 37.7041mm 
 C9         81.9436mm    26.2215mm    TopLayer    270      81.9436mm  26.2215mm 81.9436mm  31.2215mm 
 C10        100.9736mm   57.0338mm    TopLayer    270      100.9736mm 57.0338mm 100.9736mm 59.5338mm 
-C11        23.8523mm    7.6200mm     TopLayer    180      23.8523mm  7.6200mm  28.8523mm  7.6200mm  
+C11        23.8523mm    7.6200mm     TopLayer    180      23.8523mm  7.6200mm  27.6023mm  7.6200mm  
 C12        68.4773mm    26.2215mm    TopLayer    270      68.4773mm  26.2215mm 68.4773mm  31.2215mm 
 C13        30.2260mm    22.0980mm    BottomLayer 270      30.2260mm  22.0980mm 30.2260mm  24.7980mm 
 C14        29.4132mm    48.3355mm    BottomLayer 180      29.4132mm  48.3355mm 30.1752mm  48.3355mm 
@@ -42,7 +42,7 @@ C26        71.6500mm    55.0122mm    TopLayer    90       71.6500mm  55.0122mm 7
 C27        58.6690mm    55.0597mm    TopLayer    90       58.6690mm  55.0597mm 58.6690mm  53.7897mm 
 D1         23.5966mm    45.0596mm    TopLayer    270      23.5966mm  45.0596mm 24.6616mm  43.0596mm 
 D2         28.4226mm    57.8612mm    TopLayer    90       28.4226mm  57.8612mm 28.4226mm  56.4612mm 
-D3         14.4272mm    19.9610mm    BottomLayer 270      14.4272mm  19.9610mm 14.4272mm  21.9610mm 
+D3         14.4272mm    19.7672mm    BottomLayer 270      14.4272mm  19.7672mm 14.4272mm  21.7672mm 
 D4         34.2900mm    15.9446mm    BottomLayer 270      34.2900mm  15.9446mm 34.2900mm  17.9446mm 
 FB1        47.3800mm    15.0462mm    BottomLayer 90       47.3800mm  15.0462mm 47.3800mm  14.0462mm 
 FB2        52.4600mm    15.0462mm    BottomLayer 90       52.4600mm  15.0462mm 52.4600mm  14.0462mm 
@@ -62,8 +62,8 @@ R1         47.3800mm    17.5550mm    TopLayer    90       47.3800mm  17.5550mm 4
 R2         103.5304mm   12.9504mm    BottomLayer 90       103.5304mm 12.9504mm 103.5304mm 11.6804mm 
 R3         87.3506mm    46.1809mm    BottomLayer 90       87.3506mm  46.1809mm 87.3506mm  44.9109mm 
 R4         93.4742mm    60.8038mm    BottomLayer 270      93.4742mm  60.8038mm 93.4742mm  62.0738mm 
-R5         10.7381mm    18.8319mm    BottomLayer 270      10.7381mm  18.8319mm 10.7381mm  20.3219mm 
-R6         6.6040mm     20.9730mm    BottomLayer 270      6.6040mm   20.9730mm 6.6040mm   24.2230mm 
+R5         10.7115mm    19.4001mm    BottomLayer 270      10.7115mm  19.4001mm 10.7115mm  21.7501mm 
+R6         6.6040mm     20.7791mm    BottomLayer 270      6.6040mm   20.7791mm 6.6040mm   24.0291mm 
 R7         52.4600mm    17.5550mm    TopLayer    90       52.4600mm  17.5550mm 52.4600mm  11.4300mm 
 R8         97.2820mm    60.8038mm    BottomLayer 90       97.2820mm  60.8038mm 97.2820mm  59.5338mm 
 R9         93.3704mm    12.9104mm    BottomLayer 90       93.3704mm  12.9104mm 93.3704mm  11.6404mm 
