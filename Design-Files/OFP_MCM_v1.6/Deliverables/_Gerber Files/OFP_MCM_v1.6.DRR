@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: OFP_MCM_v1.6.PcbDoc   22/08/2025  3:37:20 pm
+NCDrill File Report For: OFP_MCM_v1.6.PcbDoc   8/28/2025  8:22:14 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,15 +9,15 @@ ASCII RectHoles File : OFP_MCM_v1.6-RectHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             535       PTH        74.26inch (1886.17mm)
-T2      20mil (0.5mm)                                             Round             5         PTH        0.25inch (6.39mm)
-T3      20mil (0.5mm)                                             Slot              2         PTH        0.67inch (17.02mm)
-T4      24mil (0.6mm)                                             Rectangle         2         PTH        0.46inch (11.66mm)
-T5      35mil (0.9mm)                                             Round             8         PTH        1.60inch (40.62mm)
-T6      39mil (1mm)                                               Round             8         PTH        0.79inch (20.00mm)
-T7      118mil (3mm)                                              Round             4         PTH        14.40inch (365.72mm)
-T8      138mil (3.5mm)                                            Round             4         PTH        12.68inch (322.07mm)
+T1      0.3mm (12mil)                                             Round             552       PTH        1949.17mm (76.74inch)
+T2      0.5mm (20mil)                                             Round             5         PTH        6.39mm (0.25inch)
+T3      0.5mm (20mil)                                             Slot              2         PTH        17.02mm (0.67inch)
+T4      0.6mm (24mil)                                             Rectangle         2         PTH        11.66mm (0.46inch)
+T5      0.9mm (35mil)                                             Round             8         PTH        40.62mm (1.60inch)
+T6      1mm (39mil)                                               Round             8         PTH        20.00mm (0.79inch)
+T7      1.1mm (43mil)                                             Round             7         PTH        17.78mm (0.70inch)
+T8      3mm (118mil)                                              Round             8         PTH        433.62mm (17.07inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              568
+Totals                                                                              592
 
-Total Processing Time (hh:mm:ss) : 00:00:02
+Total Processing Time (hh:mm:ss) : 00:00:00
