@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\eSpark-Consultants\GitHub\nabilfesal-smartmeter-hw\Design-Files\OFP_MCM_v1.63\OFP_MCM_v1.6.3.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ofp_mcm_v1.6.3-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ofp_mcm_v1.6.3-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=ofp_mcm_v1.6.3-rectholes.txt|DrillLayers=gtl,g1,g2,gbl
